@@ -9,9 +9,27 @@ body{
     border-color: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color
+    color:blue rgb(42, 122, 228);
 
 
 
+
+ .chmada{
+   background-color: rgb(0, 0, 0);
+   padding-bottom: 80px;
+   padding-top: 8px;
+   display: flex;
+   justify-content: center;
+ }
+ .chamada-texto{
+   margin-right: 5%;
+ }
+ h1{
+   font-size: 40px;
 
  }
+ p{
+   font: size 20px;
+
+ }
+ .categoria
